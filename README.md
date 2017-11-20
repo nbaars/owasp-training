@@ -36,9 +36,10 @@ java -jar webgoat-8.0.0-M5.jar
 
 ### Using Docker image from Docker Hub
 
-**Prerequisite: Java 8 should be present on laptop**
+**Prerequisite: Docker should be present on laptop**
 
 ```
 docker run -p 8080:8080 -t webgoat/webgoat-8.0.0-M5
 ```
 
+You should be able to change the proxy settings of your laptop, if not please download Firefox Portable Edition (https://portableapps.com/apps/internet/firefox_portable)
