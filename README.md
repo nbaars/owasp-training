@@ -2,11 +2,9 @@
 
 ## Prerequisite
 
-Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
-and 
-Download [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
-or
-Download [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
+- Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- Download [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 Only download them, if the internet connection is fast enough we will use the online version hosted on Google Cloud.
 
@@ -27,7 +25,7 @@ Register as a new user.
 
 **Prerequisite: VirtualBox installation on laptop necessary**
 
-Copy the Virtual Box image from the USB drive and import it in your local VirtualBox, start the image and point your browser to
+Copy the VirtualBox image from the USB drive and import it in your local VirtualBox, start the image and point your browser to
 http://localhost:8080/WebGoat
 
 ### Running jar file
