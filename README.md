@@ -14,6 +14,7 @@ Register as a new user.
 ## Run on local machine
 
 **NOTE**: Version M5 has not been released yet will be provided during training
+
 **NOTE**: Only necessary if the online version is not available. Choose one of the options below:
 
 ### Using Virtual Box image
