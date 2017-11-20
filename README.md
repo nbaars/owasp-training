@@ -3,6 +3,12 @@
 ## Prerequisite
 
 Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
+and 
+Download [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+or
+Download [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+Only download them, if the internet connection is fast enough we will use the online version hosted on Google Cloud.
 
 ## Online
 
