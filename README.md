@@ -28,7 +28,7 @@ http://localhost:8080/WebGoat
 
 **Prerequisite: Java 8 should be present on laptop**
 
-Copy the jar files from the Virtual Box image and start WebGoat:
+Copy the jar files from the USB drive and start WebGoat:
 
 ```
 java -jar webgoat-8.0.0-M5.jar
